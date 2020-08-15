@@ -1,0 +1,5 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "d:\\Hackathon semana 2\\RETO2_REPOSITORIO3\\enviromentQA\\Scripts\\python.exe"
+}
